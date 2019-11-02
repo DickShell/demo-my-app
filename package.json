@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dickshell.github.io/demo-social-network",
+  "homepage": "https://dickshell.github.io/demo-my-app",
   "dependencies": {
     "axios": "^0.18.0",
     "classnames": "^2.2.6",
